@@ -1,6 +1,6 @@
 For this project we have used ,
 1) Eclipse IDE Tool
-2) MySql database
+2) MySql Database
 3) Apache Tomcat Server 8.5
 4) J2EE API'S i.e JDBC API , Servlet API , JSP API.
 
