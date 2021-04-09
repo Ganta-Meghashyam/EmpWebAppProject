@@ -2,7 +2,7 @@ For this project we have used ,
 1) Eclipse IDE Tool
 2) MySql Database
 3) Apache Tomcat Server 8.5
-4) J2EE API'S i.e JDBC API , Servlet API , JSP API.
+4) JDBC API and Java EE API'S i.e Servlet API , JSP API.
 
 This project is based upon CRUD operations like 
 1)registering with employee details 
